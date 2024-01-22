@@ -11,6 +11,7 @@ def first_and_second_match(lst):
 
 # Paste the given first list
 first_list = [10, 20, 30, 40, 10]
+
 # First list result
 result1 = first_and_second_match(first_list )
 
@@ -20,7 +21,8 @@ print("First Print Result is ", result1)
 # Paste the given second list
 second_list = [75, 65, 35, 75, 30]
 #Second list result
+result2 = first_and_second_match(second_list )
 
     # Print second list
-print(second_list)
+print("Second Result is :", result2)
 
