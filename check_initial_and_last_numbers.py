@@ -17,8 +17,7 @@ first_list = [10, 20, 30, 40, 10]
 
 # First list result
 result1 = first_and_second_match(first_list )
-
-    # Print first list
+ # Print first list
 print("First Result is ", result1)
 
 # Paste the given second list
